@@ -1,0 +1,18 @@
+.text-box {
+  box-sizing: border-box;
+}
+#greycol {
+  background-color: grey;
+}
+.yellow {
+  background-color: yellow;
+}
+h3:first-of-type {
+  background-color: pink;
+}
+div.text-box > div > p {
+  background-color: red;
+}
+p:nth-last-child(2) {
+  background-color: green;
+}
